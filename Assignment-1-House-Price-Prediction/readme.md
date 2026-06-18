@@ -5,7 +5,7 @@ This project predicts house prices using the Ames Housing dataset and a Random F
 
 ## Files
 - `house-prices-prediction-using-tfdf.ipynb` - Jupyter notebook containing the implementation.
-- `ahmadrezajafari_403222080_v10.pdf` - Project report.
+- `Data analysis report.pdf` - Project report.
 
 ## Techniques Used
 - Data Exploration
